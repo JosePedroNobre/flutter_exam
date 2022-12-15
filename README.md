@@ -1,11 +1,11 @@
 
-##Designs and requirements 
+*Designs and requirements*
 
 https://www.figma.com/file/YUkXEiOtqV2n34EnxI67Sr/CasualBearTest?node-id=0%3A1&t=YelJ20lw2srPLKxr-3
 
 
 
-##API Documentation
+*API Documentation*
 
 https://openweathermap.org/current (more info about the response of the JSON)
 
