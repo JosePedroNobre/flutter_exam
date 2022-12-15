@@ -3,6 +3,9 @@
 
 https://www.figma.com/file/YUkXEiOtqV2n34EnxI67Sr/CasualBearTest?node-id=0%3A1&t=YelJ20lw2srPLKxr-3
 
+State management needs to be **Provider**
+
+Deadline ends on the **30 of December 2022 at 23:59**
 
 
 **API Documentation**
